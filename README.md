@@ -1,5 +1,4 @@
 ### Hi there 👋
 
-My 2nd account. Used mostly for testing, signing up for services, etc.
+Ryan2625's second account. Used mostly for testing, deployments, signing up for services, etc. 
 
-=)
